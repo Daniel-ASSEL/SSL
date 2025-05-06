@@ -1,1 +1,3 @@
-Buen dia profe, no entendi si era si o si utilizar los estandar que estaban en la consigna, pero en mi maquina utilizo el c17.
+Compilador Seleccionado : MINGW64
+Version el compilador   : 14.2.0
+Version de C que compila:   C11
